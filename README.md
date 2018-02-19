@@ -18,7 +18,7 @@ csv
 3.Navigate to the Folder location
 
 4.type this command:
-python calculate.py
+python crawl.py
 
 ## Copyrights 
 © Mostafa Ahmed
